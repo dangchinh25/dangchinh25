@@ -1,9 +1,13 @@
-### Hi there 👋
+### Hi there 👋 I'm Chinh Le, feel free to take a look around.
+
+## I'm sophomore by year and junior by credit at The University of Texas at Dallas, major in Computer Science.
+
+Currently working at Got It AI as a Software Engineer Intern. My interests include backend development and system design. 
 
 <!--
 **dangchinh25/dangchinh25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<img width="100%" src="https://skyline.github.com/dangchinh25/2020" alt="dangchinh25" />
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=dangchinh25&show_icons=true&count_private=true&theme=dracula&include_all_commits=true" alt="dangchinh25" />
 
 Here are some ideas to get you started:
 
