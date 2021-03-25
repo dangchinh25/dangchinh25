@@ -3,6 +3,8 @@
 <!--
 **dangchinh25/dangchinh25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+<img width="100%" src="https://skyline.github.com/dangchinh25/2020" alt="dangchinh25" />
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
