@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Chinh Le, feel free to take a look around.
 
-## I'm sophomore by year and junior by credit at The University of Texas at Dallas, major in Computer Science.
+## I'm a junior at The University of Texas at Dallas, major in Computer Science.
 
 Currently working at Got It AI as a Software Engineer Intern. My interests include backend development and system design. 
 
