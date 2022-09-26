@@ -4,7 +4,7 @@
 
 Previously working at Got It AI as a Software Engineer Intern. My interests include backend development and system design. 
 
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=dangchinh25&show_icons=true&count_private=true&theme=dracula&include_all_commits=true" alt="dangchinh25" />
+<img width="70%" src="https://github-readme-stats.vercel.app/api?username=dangchinh25&show_icons=true&count_private=true&theme=dracula&include_all_commits=true" alt="dangchinh25" />
 
 
 
